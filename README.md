@@ -13,6 +13,6 @@
     - Deep Learning: PyTorch Geometric Graph Neural Network
     - Front-end: HTML, JavaScript, Flask
 - 현황
-    1. 그래프 구조 구축
-    2. 베이스라인 모델 구현
-    3. Bipartite Graph Visualization 구현 (예정)
+    - 그래프 구조 구축
+    - 베이스라인 모델 구현
+    - Bipartite Graph Visualization 구현 (예정)
